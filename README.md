@@ -73,13 +73,13 @@ This is an example property, event and service, the TSL schema is presented as f
   ]
 }
 ```
-- Property setting on platform
+- Property setting on platform<br/>
   ![Property setting on platform](https://drive.google.com/uc?export=view&id=1h6F0Qd_HrXBt8q8OkyB7h2gB-ZoEIK7M)
-- Event setting on platform
+- Event setting on platform<br/>
   ![Event setting on platform](https://drive.google.com/uc?export=view&id=1GJkYuCwtev2USwO_ffYtlbHQlgNB9ore)
-- Service setting on platform
+- Service setting on platform<br/>
   ![Service setting on platform](https://drive.google.com/uc?export=view&id=1AYwgJIKDzuriGKL0L5yz-kkrBeZvKFcX)
-- Service parameter setting on platform
+- Service parameter setting on platform<br/>
   ![Service parameter setting on platform](https://drive.google.com/uc?export=view&id=12evtj95ur0cskLP9gl4jJxhXI0VCn6If)
 
 ## Connect To IoT Platform
