@@ -155,7 +155,7 @@ device.onService('enviromentTemperatureControlService', function (res,reply) {
 
 ## Verify Data
 - Alibaba IoT provides debug tools<br/>
-  ![Debuging](https://drive.google.com/uc?export=view&id=1kDxXBBSG8iVVTqwjV2mCh1WccovT4v6w)
+  ![Debuging](https://drive.google.com/uc?export=view&id=1Z5icT5fROlz2zsVkuxzvclQ0dlWmvgEh)
 - Using debug tool to call for a service<br/>
   ![Call for a service](https://drive.google.com/uc?export=view&id=17AkOU_bXPZOVQ8fgD2G6fcZNFud145Fa)
 
